@@ -1,0 +1,18 @@
+# Environment
+backend/.env
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Vector database
+backend/chroma_db/
+
+# Uploaded PDFs
+backend/data/
+
+# IDE
+.vscode/
+.idea/
